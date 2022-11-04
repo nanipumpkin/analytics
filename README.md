@@ -1,4 +1,4 @@
-# analytics
+# Analytics
 
 A list of my data analytics studies
 
